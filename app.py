@@ -7,7 +7,7 @@ from discord.ext import commands
 app = Flask(__name__)
 @app.route('/')
 def index():
-   return 'OK!':
+   return 'OK!'
 
 if __name__ == "__main__":
    app.run()
