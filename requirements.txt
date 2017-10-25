@@ -42,6 +42,7 @@ decorator==4.1.2
 dicttoxml==1.7.4
 dissy==9
 distorm3==3.3.4
+--allow-unverified django-admin-tools
 Django==1.11.6
 dnslib==0.9.7
 dnspython==1.15.0
